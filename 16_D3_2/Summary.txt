@@ -1,1 +1,4 @@
+By completing the student activities in the second class for D3, I learned how to set up a frontend webpage that can display data and styles from separate files. Though this sounds easy, it most certainly was not. It took me some time to figure out how to link all of the different files so that they executed in the correct order and displayed in the right way. 
+
+Now that I have done this several times through the student activities, I feel much more comfortable with this simple approach and ready to try to build my knowledge of the less-fundamental aspects of D3. With some simple styling and bootstrapping, it seems relatively easy to convert these basic graphs of data into a full-fledged website. 
 
