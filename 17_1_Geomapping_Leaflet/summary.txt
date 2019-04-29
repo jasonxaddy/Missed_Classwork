@@ -1,1 +1,3 @@
+This section of class is exactly why I first became interested in pursuing the Data Science Boot Camp. As a journalist, the mapping and plotting skills that I learned by completing these student activities (and the dozens of other activities) will enable to set my reporting apart and provide a more clear and concise story for my readers with the use of maps. 
 
+These activities taught me how to clean and pre-process data so that it can be easily displayed on a front-end webpage. It also taught me the basics for setting markers and map layers to add interactive elements to each of my maps, which will really set my reporting apart. 
